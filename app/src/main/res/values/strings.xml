@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CO-TOON</string>
+    <string name="judul">CO - TOON</string>
+    <string name="auth_failed">Password harus melebihi 6 character</string>
+    <string name="baca">baca</string>
+    <string name="EB1">Apa Itu Covid-19?</string>
+    <string name="TEB1">Pandemi Covid-19 sering kita dengar, sebenarnya apa itu Covid-19?</string>
+    <string name="EB2">Cara Penularan Covid-19</string>
+    <string name="TEB2">Ayo kita pelajari cara penularan Covid-19 agar dapat mengantisipasi penyebarannya!</string>
+</resources>
